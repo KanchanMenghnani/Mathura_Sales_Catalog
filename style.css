@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+h1 {
+  color: #333;
+}
+.catalog {
+  margin: 10px 0;
+}
+a {
+  text-decoration: none;
+  color: #007BFF;
+  font-size: 18px;
+}
